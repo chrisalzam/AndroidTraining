@@ -1,33 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout
-    android:orientation="vertical"
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context=".MainActivity">
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/text_hello"/>
+        android:textAlignment="center"
+        android:textSize="24sp"
+        android:text="@string/text_hello" />
 
-        <TextView
+    <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/text_bye"/>
+        android:text="@string/text_bye" />
 
     <EditText
-        android:text="@+id/etName"
+        android:id="@+id/etName"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:hint="@string/write_your_name"
+         />
 
     <Button
         android:id="@+id/btnShow"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/show_name" />
+        android:text="@string/show_name"
+        android:onClick="onButtonClick"/>
 
     <TextView
         android:id="@+id/tvNameResult"

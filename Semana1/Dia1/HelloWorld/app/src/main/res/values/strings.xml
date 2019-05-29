@@ -2,4 +2,9 @@
     <string name="app_name">My First App</string>
     <string name="text_bye">Bye!</string>
     <string name="text_hello">Hello World!!!</string>
+    <string name="write_your_name">Write your name</string>
+    <string name="show_name">Show Name</string>
+    <string name="button_clicked">Button Clicked</string>
+    <string name="text_hi">Hi,</string>
+
 </resources>

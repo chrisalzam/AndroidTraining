@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Mi primer aplicai[on</string>
+    <string name="app_name">Mi primer aplicacion</string>
     <string name="text_bye">Adios!</string>
     <string name="text_hello">Hola Mundo!!!</string>
+    <string name="write_your_name">Escribe tu Nombre</string>
+    <string name="show_name">Muestra Nombre</string>
+    <string name="button_clicked">Botón Presionado</string>
+    <string name="text_hi">Hola,</string>
 </resources>

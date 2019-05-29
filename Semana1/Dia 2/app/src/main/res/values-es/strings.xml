@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ficha</string>
+    <string name="text_name">Nombre:</string>
+    <string name="text_name2">Juan Perez</string>
+    <string name="text_age">Edad:</string>
+    <string name="text_age2">35</string>
+    <string name="text_job">Puesto:</string>
+    <string name="text_job2">Desarrollador</string>
+    <string name="text_Desc">Descripción:</string>
+    <string name="text_Desc2">Desarrollador .Net, Android Apss, etc.</string>
+</resources>

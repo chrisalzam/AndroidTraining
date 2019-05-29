@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Personal_File</string>
+    <string name="text_name">Name:</string>
+    <string name="text_name2">John Doe</string>
+    <string name="text_age">Age:</string>
+    <string name="text_age2">35</string>
+    <string name="text_job">Job:</string>
+    <string name="text_job2">Developer</string>
+    <string name="text_Desc">Description:</string>
+    <string name="text_Desc2">.net Developer, Android Apps, etc.</string>
+</resources>
